@@ -1,0 +1,38 @@
+﻿  light.cpp
+c:\users\pspice\source\repos\light\light.cpp(77): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\pspice\source\repos\light\light.cpp(89): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(90): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(106): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(107): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(108): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(109): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pspice\source\repos\light\light.cpp(110): warning C4244: '초기화 중': '_Tp'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+opencv_world400d.lib(opencv_world400d.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
